@@ -3,9 +3,7 @@
 This repository contains a GitHub Actions workflow for automatically fetching data from multiple blockchain networks (Ethereum, NEAR, StarkNet, and Axelar) and committing the changes to the repository.
 
 ## Usage
-
 ### Get Started
-
 To use this workflow, follow these steps:
 
 1. **Use this template**: Click on the "Use this template" button on the GitHub repository page to create a new repository based on this template.
