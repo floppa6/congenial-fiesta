@@ -1,8 +1,8 @@
 # Lava Auto Commit
-
 This repository contains a GitHub Actions workflow for automatically fetching data from multiple blockchain networks (Ethereum, NEAR, StarkNet, and Axelar) and committing the changes to the repository.
 
 ## Usage
+
 ### Get Started
 To use this workflow, follow these steps:
 
